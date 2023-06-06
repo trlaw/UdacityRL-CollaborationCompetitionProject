@@ -1,2 +1,2 @@
-# UdacityRL-CollaborationCompetitionProject
-Project Three Submission for the Udacity Deep Reinforcement Learning Course
+# UdacityRL-ReacherArmProject
+Project Two Submission for Udacity Reinforcement Learning Course
