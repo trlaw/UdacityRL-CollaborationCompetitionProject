@@ -1,2 +1,2 @@
-# UdacityRL-ReacherArmProject
-Project Two Submission for Udacity Reinforcement Learning Course
+# UdacityRL-CollaborationCompetitionProject
+Project Three Submission for Udacity Reinforcement Learning Course
