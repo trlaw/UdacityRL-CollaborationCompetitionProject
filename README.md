@@ -19,4 +19,4 @@ To solve the environment, a running average, over 100 consecutive episodes, of t
   - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
   - [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 + Place the Unity Environment zip file into any convenient directory, and unzip the file.
-+ Clone this repository and open CollaborationCompetitionCode.ipynb in a Jupyter Notebook instance, and follow the instructions there.
++ Clone this repository and open `CollaborationCompetitionCode.ipynb` in a Jupyter Notebook instance, and follow the instructions there.
